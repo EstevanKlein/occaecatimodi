@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "types": ["node"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "declaration": true,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "noLib": false,
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "typeRoots" : ["node_modules/@types", "./@types"]
+  },
+  "files": [
+    "main.ts"
+  ]
+}

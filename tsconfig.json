@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "types": [],
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+  },
+  "include": ["@types/Gjs/*.ts"]
+}

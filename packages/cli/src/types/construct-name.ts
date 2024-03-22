@@ -1,0 +1,11 @@
+export type ConstructName =
+    | 'functionName'
+    | 'enumMember'
+    | 'signalName'
+    | 'fieldName'
+    | 'constantName'
+    | 'propertyName'
+    | 'parameterName'
+    | 'enumName'
+    | 'importName'
+    | 'signalInterfaceName'
